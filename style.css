@@ -4,4 +4,14 @@
 }
 table{
     text-align: left;
+    background-color: purple
+}
+body{
+    color: white;
+}
+h1{
+    color: blue;
+}
+.cntr{
+    text-align: left;
 }
